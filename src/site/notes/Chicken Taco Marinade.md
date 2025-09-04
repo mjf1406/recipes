@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/chicken-taco-marinade/"}
+{"dg-publish":true,"permalink":"/chicken-taco-marinade/","noteIcon":"","created":"2025-08-24T07:23:52.000+09:00","updated":"2025-09-04T18:53:53.278+09:00"}
 ---
 
 ## Notes
@@ -7,7 +7,7 @@
 notes go here
 ## Ingredients
 #### Meat
-- [ ] 1.25 up to 1.5 lbs. boneless skinless chicken thighs or breasts
+- [ ] 500 kg boneless skinless chicken thighs or breasts
 #### Liquid
 - [ ] 1/4 cup fresh lime juice (60 mL), plus 1 teaspoon zest (~3-4 limes)
 	- Omitting the zest is okay
@@ -51,7 +51,7 @@ notes go here
 6. remove the chicken from the frying pan
 7. reduce heat slightly, and reduce the sauce until your desired thickness.
 ### Storing Recommendations
-
+I recommend you store the chicken in the sauce. The way I store it is dividing the chicken into 3 servings and placing those servings into separate silicone storage containers, then laddle 2+ tablespoons of sauce onto each until I have no more sauce, then store in the fridge and eat within 3-4 days.
 ## Source
 This recipe was modified from the recipe at the below URL.
 - https://www.chelseasmessyapron.com/chicken-taco-marinade/
